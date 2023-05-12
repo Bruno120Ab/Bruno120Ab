@@ -26,6 +26,7 @@
      <br>
    👨‍💻 Desenvolvedor Front-end. </br>
    🏛️ Dev Fullstack em formação. </br>
+   🏛️ Graduando engenharia de software. </br>
    👨‍🎓 Estudando Back-end. </br>
    😎 Pronomus: ele/dele. </br>
   </p>
