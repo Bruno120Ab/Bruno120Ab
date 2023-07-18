@@ -25,10 +25,11 @@
     </a>  
      <br>
    👨‍💻 Desenvolvedor Front-end. </br>
+   👨‍💻 Desenvolvedor Back-End. </br>
    🏛️ Dev Fullstack em formação. </br>
-   🏛️ Graduando engenharia de software. </br>
-   👨‍🎓 Estudando Back-end. </br>
-   😎 Pronomus: ele/dele. </br>
+   🏛️ Graduando Engenharia de Software. </br>
+<!--    👨‍🎓 Estudando Back-end. </br> -->
+   😎 Pronomus: ele/dele. </br> 
   </p>
   
 
