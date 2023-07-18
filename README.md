@@ -9,7 +9,7 @@
  <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou o Bruno!
+    Olá, Tudo bem? Eu sou o Bruno!
   </h1>
   
   <div align="center">
